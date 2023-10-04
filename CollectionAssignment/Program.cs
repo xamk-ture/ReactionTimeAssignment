@@ -18,7 +18,7 @@ namespace CollectionAssignment
         {
             //Luo uusi taulukko tai lista
 
-            //Lisää taulukkoon tai listaan luvut 0-9 käyttämällä for-looppia
+            //Lisää taulukkoon tai listaan luvut 0-9 käyttämällä for-looppia tai for each -tekniikkaa
 
             //Tulosta taulukko tai lista
         }
